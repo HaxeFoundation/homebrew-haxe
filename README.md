@@ -1,8 +1,12 @@
+> **:warning: work-in-progress :warning:**
+>
+> Please use the built-in default homebrew-core Haxe formula to obtain the latest version of Haxe.
+> 
+> i.e. simply `brew install haxe`
+
 # Homebrew Haxe
 
 [![Build Status](https://travis-ci.org/HaxeFoundation/homebrew-haxe.svg?branch=master)](https://travis-ci.org/HaxeFoundation/homebrew-haxe)
-
-**NOTE: work-in-progress**
 
 Haxe-related formulae for the Homebrew package manager, including
 
